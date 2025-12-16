@@ -20,8 +20,8 @@ main:
   - title: "Traning & Certificates"
     url: /training-certificates/    
 
-  - title: "Code Samples"
-    url: /portfolio/
+  - title: "Code Examples"
+    url: /code-examples/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
@@ -34,3 +34,6 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/ 
+
+  # - title: "Portfolio"
+  # url: /portfolio/
