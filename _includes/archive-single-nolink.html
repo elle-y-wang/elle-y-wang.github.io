@@ -1,7 +1,4 @@
-<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-  <h2 class="archive__item-title" itemprop="headline">
-    {{ post.title | escape }}
-  </h2>
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"> <h2 class="archive__item-title" itemprop="headline"> {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }} </h2>
 
   {% if post.collection == 'publications' %}
     <p>
