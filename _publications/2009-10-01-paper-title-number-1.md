@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Effects of Using Multivitamins as Dietary Supplements on Cognitive Function in Older Adults: a Systematic Review and Meta-analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Effects of Using Multivitamins as Dietary Supplements on Cognitive Function in Older Adults: a Systematic Review and Meta-analysis
+excerpt: 'This study conducted a systematic review and meta-analysis of randomized controlled trials to evaluate the effects of multivitamin supplementation on cognitive function in adults aged 65 and older. The main finding was that multivitamins significantly improved delayed free recall, while showing no meaningful effects on other cognitive domains.'
+date: 2024-05-22
+venue: 'Food Science and Human Wellness'
+slidesurl: 
+paperurl: 'https://www.sciopen.com/article/10.26599/FSHW.2024.9250310'
+bibtexurl: 
+citation: 'Xu Y, Wang Y, Chen G, et al. Effects of Using Multivitamins as Dietary Supplements on Cognitive Function in Older Adults: a Systematic Review and Meta-analysis. Food Science and Human Wellness, 2024, https://doi.org/10.26599/FSHW.2024.9250310'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Multivitamins were widely used health supplements that replenished essential nutrients in the human body. Despite their popularity, the impact of multivitamins on the cognitive function of older adults remained unclear and contentious. This study offered a comprehensive review and meta-analysis of research published until June 2024, analyzing the effects of multivitamins on various cognitive functions in individuals aged 65 and older. We included ten randomized controlled trials encompassing 13,600 participants from multiple databases. These studies evaluated the impact of multivitamins on reasoning, memory, learning, visual perception, idea production, cognitive speed, psychomotor abilities, and higher cognitive functions. Our meta-analysis revealed that multivitamins significantly enhanced delayed free recall (SMD = 0.09, 95% CI: [0.05, 0.13], p < 0.0001). However, they had no substantial effects on immediate free recall (SMD = 0.85, 95% CI: [-0.18, 1.90], p = 0.11), idea production (SMD = -0.00, 95% CI: [-0.04, 0.03], p = 0.86), or cognitive speed (SMD=0.34, 95% CI: [-0.07, 0.74], p = 0.11). Thus, while multivitamins facilitated delayed free recall, they did not significantly improve other cognitive functions in older adults.
