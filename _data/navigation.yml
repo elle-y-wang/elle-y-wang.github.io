@@ -12,7 +12,7 @@ main:
     url: /cv/
 
   - title: "Projects"
-    url: /teaching/ 
+    url: /projects/ 
     
   - title: "Publications"
     url: /publications/
@@ -31,3 +31,6 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+
+  #- title: "Teaching"
+  #  url: /teaching/ 
