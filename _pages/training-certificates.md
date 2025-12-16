@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **Code in Place: Python Programming Training Program**  
-  *Stanford University* — Certification  
+  *Stanford University* — [Certification](/files/Code_in_Place_Certificate.png) 
   **04/2025 – 06/2025**
   
 - **Health Data Analysis and Machine Learning**  
@@ -14,7 +14,7 @@ author_profile: true
   **04/2025 – 05/2025**
 
 - **Programming in Python for Data Science**  
-  *UBC Extended Learning* — Online course with certification  
+  *UBC Extended Learning* — [Online course with certification](/files/Programming_in_Python_for_Data_Science.pdf)  
   **03/2025 – 06/2025**
 
 - **Artificial Intelligence Foundations: Machine Learning**  
