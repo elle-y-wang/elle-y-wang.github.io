@@ -3,16 +3,31 @@
     {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}
   </h2>
 
-  {% if post.venue %}
-    <p class="archive__item-excerpt" itemprop="description">
-      <em>{{ post.venue }}</em>
-      {% if post.date %} · {{ post.date | date: "%Y" }}{% endif %}
+  {% if post.collection == 'publications' %}
+    <p>
+      Published in <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+    </p>
+  {% elsif post.venue or post.date %}
+    <p>
+      {% if post.venue %}<i>{{ post.venue }}</i>{% endif %}
+      {% if post.venue and post.date %}, {% endif %}
+      {% if post.date %}{{ post.date | date: "%Y" }}{% endif %}
     </p>
   {% endif %}
 
   {% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">
       {{ post.excerpt | markdownify }}
+    </p>
+  {% endif %}
+
+  {%- comment -%}
+    Add a simple "Download Paper" button if paperurl exists.
+    This does NOT depend on permalink/title links.
+  {%- endcomment -%}
+  {% if post.paperurl %}
+    <p>
+      <a class="btn btn--primary" href="{{ post.paperurl }}">Download Paper</a>
     </p>
   {% endif %}
 </article>
