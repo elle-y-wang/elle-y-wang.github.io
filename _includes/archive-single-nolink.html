@@ -1,0 +1,18 @@
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <h2 class="archive__item-title" itemprop="headline">
+    {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}
+  </h2>
+
+  {% if post.venue %}
+    <p class="archive__item-excerpt" itemprop="description">
+      <em>{{ post.venue }}</em>
+      {% if post.date %} · {{ post.date | date: "%Y" }}{% endif %}
+    </p>
+  {% endif %}
+
+  {% if post.excerpt %}
+    <p class="archive__item-excerpt" itemprop="description">
+      {{ post.excerpt | markdownify }}
+    </p>
+  {% endif %}
+</article>
