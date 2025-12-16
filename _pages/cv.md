@@ -9,56 +9,176 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## EDUCATION
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### **Master of Science in Experimental Medicine (Epidemiology in Dermatology)**  
+**University of British Columbia**, Vancouver, Canada  
+*2017 – 2020*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **A-range coursework performance** (A− to A+)  
+- **Capstone Project:** *Incidence and Profile of Skin Cancer in Patients Undergoing Ultraviolet-B Phototherapy*  
+- **Supervisor:** Dr. Sunil Kalia  
+- Completed a comprehensive research project integrating a **systematic review, meta-analysis, and retrospective cohort study** examining skin cancer risk among patients receiving ultraviolet-B phototherapy.  
+- Developed a large-scale clinical dataset (**>500,000 treatment records**) and conducted advanced statistical analyses using **R and SPSS**.  
+- Findings resulted in **two first-author publications in the *Journal of the American Academy of Dermatology (JAAD)***, the top-ranked dermatology journal and part of the **Nature Index**.  
+- This work was further recognized with the **Best Abstract Award** at the **29th Annual Meeting of the Photodermatology Society**.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### **Bachelor of Science in Preventive Medicine**  
+**Wuhan University**, Wuhan, China  
+*2012 – 2017*
+
+- **Overall GPA:** 3.27 / 4.00  
+- **Capstone Project:** *Correlation Between Eating Frequency and Obesity in Chinese Adults*  
+- **Supervisor:** Dr. Rui Li  
+- Conducted a research project combining a **systematic review, meta-analysis, and cross-sectional study** to examine associations between eating frequency and obesity.  
+- Designed the study framework, developed validated questionnaires, and conducted multivariable statistical analyses.  
+- This work resulted in **two first-author peer-reviewed publications**.
+
+---
+
+### **Undergraduate Global Learning Semester (Exchange Program)**  
+**Duke Kunshan University**, Shanghai, China  
+*September 2014 – December 2014*
+
+---
+
+## SKILLS
+
+### **Research and Project Management**
+- Study design across observational and randomized controlled research (**cross-sectional, retrospective cohort, case-control, randomized controlled trials**)  
+- Evidence synthesis and quantitative integration (**systematic reviews, meta-analysis, effect-size harmonization, heterogeneity assessment, forest plot generation**)  
+- Time-dependent and event-based outcome modeling (**longitudinal data structures, time-to-event analysis**)  
+- Behavioral and clinical instrument development (**knowledge–attitude–practice frameworks, patient-reported outcomes**)  
+- Analytical protocol development and statistical analysis planning (**exposure definition, outcome specification, confounder control, sensitivity analyses**)  
+- Research governance and data stewardship (**ethics approval, privacy compliance, audit readiness, data-access governance**)  
+- Cross-jurisdiction collaboration and operational infrastructure maintenance  
+- Scientific research delivery (**manuscript development, methodological transparency, conference presentations**)
+
+---
+
+### **Statistical Analysis and Data Science**
+- **R:** data wrangling and visualization (*dplyr, tidyr, ggplot2*), regression and survival analysis (*survival, survminer*), meta-analysis (*meta, metafor*), k-means clustering with elbow and silhouette diagnostics (stats, cluster) (*stats, cluster*), derivation of Charlson Comorbidity Index and utilization-pattern variables  
+- **Python:** Data auditing and governance automation; statistical analysis including linear and logistic regression (*pandas, NumPy, statsmodels, SciPy*)  
+- **SAS:** Advanced Programming Using SAS 9.4 (SAS Certified Professional); geocoding with PCCF+  
+- **SPSS:** hypothesis testing, regression modeling, ROC curve analysis  
+- **REDCap:** longitudinal database engineering, branching logic, audit-ready derivations  
+- **NVivo:** basic familiarity for qualitative analysis  
+
+---
+
+### **Emerging Skills and Interests**
+- Transformer-based modeling (**BERT, ClinicalBERT, BigBird**) using PyTorch  
+- Clinical natural language processing workflows (**tokenization, normalization, embedding preparation**)  
+- Comparative modeling using transformer architectures and tree-based methods (**Extreme Gradient Boosting**)  
+- Databricks-based analytical engineering for large-scale text parsing, cleaning, normalization, and redaction-aware processing  
+- Time-series modeling concepts (**one-dimensional convolutional networks, recurrent networks, transformer sequence models**)  
+- Foundational computer vision and graph learning concepts (**convolutional neural networks, graph neural networks**)  
+- Responsible artificial intelligence principles (**interpretability, bias evaluation, data-drift monitoring, governance alignment**)
+
+---
+
+## EXPERIENCE
+
+### **Analytical Lead**  
+**BC Centre for Disease Control**, Vancouver, Canada  
+*July 2025 – Present*
+
+- Leading analytical strategy and data-readiness development for multi-partner clinical and public health initiatives involving large-scale real-world health datasets.  
+- Designing scalable analytical frameworks and cross-system data workflows.  
+- Engaging with technical, clinical, governance, and privacy stakeholders to support responsible and future machine-learning applications within complex healthcare environments.
+
+---
+
+### **Analytical Project Manager**  
+**Moe Lab, Department of Emergency Medicine, University of British Columbia**, Vancouver, Canada  
+*July 2024 – Present*
+
+- Leading analytical design and data-driven work across multiple clinical and public health research studies.  
+- Developing and executing analysis plans and supervising research assistants.  
+- Ensuring methodological rigor in the handling of real-world clinical data.  
+- Supporting manuscript preparation, grant development, and ethics processes.
+
+---
+
+### **Senior Analytical Project Coordinator**  
+**Moe Lab, Department of Emergency Medicine, University of British Columbia**, Vancouver, Canada  
+*July 2023 – June 2024*
+
+- Oversaw operational, regulatory, and analytical support across multiple clinical and public health research studies.  
+- Coordinated project workflows, ethics and compliance processes, and grant preparation.  
+- Maintained team infrastructure, including onboarding systems and a centralized project website.  
+- Worked closely with principal investigators, steering committees, and data safety groups.
+
+---
+
+### **Analytical Project Coordinator**  
+**Moe Lab, Department of Emergency Medicine, University of British Columbia**, Vancouver, Canada  
+*July 2021 – June 2023*
+
+- Provided end-to-end coordination and operational oversight for research programs.  
+- Maintained data infrastructure and implemented compliant study workflows.  
+- Supported investigators through regulatory, analytical, and reporting processes.
+
+---
+
+### **Clinical Research Technician and Data Analyst**  
+**Moe Lab, Department of Emergency Medicine, University of British Columbia**, Vancouver, Canada  
+*July 2020 – June 2021*
+
+- Conducted statistical analysis and data management for population-level and clinical datasets.  
+- Built cohorts, cleaned data, derived variables, and performed multivariable modeling using **SAS and R**.  
+- Generated tables and visualizations for manuscripts and collaborated with investigators and biostatisticians.
+
+---
+
+### **Graduate Research Assistant**  
+**Kalia Lab, Department of Dermatology and Skin Science, University of British Columbia**, Vancouver, Canada  
+*July 2017 – April 2020*
+
+- Supported epidemiological and clinical research through literature synthesis, study design, data extraction, statistical analysis, and manuscript development.
+- Responsibilities included constructing research databases, conducting retrospective and systematic-review methodology, performing multivariable and survival analysis, and preparing figures, tables and written results for publication.
+
+---
+
+### **Undergraduate Research Assistant**  
+**Li Lab, Department of Nutrition and Food Hygiene, Wuhan University**, Wuhan, China  
+*December 2014 – June 2017*
+
+- Developed foundational skills in epidemiological research through systematic review methodology, preliminary meta-analysis, and cross-sectional study design.
+- Supported literature synthesis, data extraction, study protocol development and basic statistical analysis, gaining early experience in structuring research questions, assessing evidence quality and translating clinical concepts into analysable variables. 
+
+---
+
+### **Undergraduate Research Assistant**  
+**Wang Lab, Department of Nutrition and Food Hygiene, Wuhan University**, Wuhan, China  
+*March 2014 – October 2015*
+
+- Gained early exposure to laboratory-based biomedical research through hands-on involvement in cell culture experiments and data collection.
+- Supported experimental workflows, maintained cell lines, assisted with publications preparation and contributed to data recording and quality control.
+
+---
+
+## AWARDS
+
+- **Best Abstract Award**, 29th Annual Meeting of the Photodermatology Society (2019)  
+- **UBC International Tuition Award** (2018 – 2020)  
+- **First Prize Scholarship**, Wuhan University (Top three overall ranking, 2016)  
+- **“Excellent Project” Award**, National Undergraduate Training Program for Innovation and Entrepreneurship (2015)
+
+---
+
+## CONFERENCE PRESENTATIONS
+
+1. Long V, **Wang E. Y.**, Moe J. *EMED: A Randomized Controlled Trial Investigating Buprenorphine/Naloxone in Emergency Departments.* Canadian Society of Addiction Medicine, Victoria, Canada. (2025, Abstract)  
+2. Bruketa E, **Wang E. Y.**, Moe J. *Evaluating Microdosing of Suboxone in the Emergency Department: A Qualitative Review.* International Conference on Emergency Medicine, Montreal, Canada. (2025, Paper)  
+3. Bruketa E, **Wang E. Y.**, Moe J. *A Qualitative Review of ED Buprenorphine-Naloxone Microdosing.* UBC Department of Emergency Medicine Research Day. (2024, Abstract)  
+4. Moe J, Otterstatter M, Chavez T, **Wang E. Y.**, Feldman-Kiss D, Buxton J. *Physiologic Oxygen Responses to Smoking Opioids.* BCCDC Research Week. (2023, Abstract)  
+5. **Wang E. Y.**, Moe J. *Characterizing Frequent Emergency Department Visits and Substance Use.* BCCDC Research Day. (2022, Abstract)  
+6. Ahad T, **Wang E. Y.**, et al. *Incidence of Skin Cancers in Patients with Eczema Treated with Ultraviolet Phototherapy.* BC Cancer Summit. (2021, Abstract and Poster)  
+7. **Wang E. Y.**, et al. *Incidence and Profile of Skin Cancer in Patients Undergoing Ultraviolet-B Phototherapy.* Photodermatology Society Annual Meeting. (2020, Abstract and Presentation)  
+8. **Wang E. Y.**, et al. *Risk of Skin Cancer Development in Patients Treated with Ultraviolet Therapy.* UBC Skin Cancer Research Day. (2019, Abstract and Presentation)  
+9. Oniffrey TM, **Wang E. Y.**, et al. *Nutrition Knowledge and Obesity in Chinese Adults.* Wake Forest School of Medicine Global Health Symposium. (2017, Abstract and Poster)  
+10. **Wang E. Y.**, et al. *In Vivo Assessment of Skin Thickness and Melanin Response to UV Photoadaptation.* UBC Skin Cancer Research Day. (2018, Abstract and Poster)
+
