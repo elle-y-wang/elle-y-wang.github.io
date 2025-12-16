@@ -1,6 +1,6 @@
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
   <h2 class="archive__item-title" itemprop="headline">
-    {{ post.title | strip_html }}
+    {{ post.title | escape }}
   </h2>
 
   {% if post.collection == 'publications' %}
