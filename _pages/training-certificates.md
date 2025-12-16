@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **Code in Place: Python Programming Training Program**  
-  *Stanford University* — [Certification](/files/Code_in_Place_Certificate.png) 
+  *Stanford University* — [Certification](/files/Code_in_Place_Certificate.png)   
   **04/2025 – 06/2025**
   
 - **Health Data Analysis and Machine Learning**  
@@ -29,10 +29,6 @@ author_profile: true
   *Project Management Institute* — Certification  
   **05/2025**
 
-- **UBC Micro-certificate in Health Data Analytics: Opportunities and Applications**  
-  *UBC Extended Learning* — Online course  
-  **02/2024 – 03/2024**
-
 - **SAS Certified Professional: Advanced Programming Using SAS 9.4**  
   *SAS* — Certification  
   **03/2024**
@@ -42,8 +38,8 @@ author_profile: true
   **03/2024**
 
 - **Introduction to the Big Data Era & Opportunities for Better Health**  
-  *UBC Extended Learning* — Online course with certification  
-  **12/2023**
+  *UBC Extended Learning* — [Online course with certification](/files/Introduction_to_the_Big_Data_Era.pdf)    
+  **01/2024 – 02/2024**
 
 - **Health Canada Division 5: Drugs for Clinical Trials Involving Human Subjects (Coordinators/Assistants)**  
   *CITI Program* — Certification  
@@ -66,12 +62,12 @@ author_profile: true
   **04/2022**
 
 - **Public Speaking for International Professionals**  
-  *UBC Extended Learning* — Online course with certification  
-  **01/2022**
+  *UBC Extended Learning* — [Online course with certification](/files/Public_Speaking_for_International_Professionals.pdf)  
+  **03/2022 – 03/2022**
 
 - **Advanced English Conversation for Professionals**  
-  *UBC Extended Learning* — Online course with certification  
-  **01/2022**
+  *UBC Extended Learning* — [Online course with certification](/files/Advanced_English_Conversation_for_Professionals.pdf)  
+  **01/2022 – 02/2022**
 
 - **Speaking Up at Work**  
   *LinkedIn Learning* — Online course  
