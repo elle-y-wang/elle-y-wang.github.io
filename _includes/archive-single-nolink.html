@@ -1,15 +1,16 @@
 <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
   <h2 class="archive__item-title" itemprop="headline">
-    {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}
+    {{ post.title | strip_html }}
   </h2>
 
   {% if post.collection == 'publications' %}
     <p>
-      Published in <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+      Published in <i>{{ post.venue | markdownify | remove: "<p>" | remove: "</p>" }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
     </p>
   {% elsif post.venue or post.date %}
     <p>
-      {% if post.venue %}<i>{{ post.venue }}</i>{% endif %}
+      {% if post.venue %}<i>{{ post.venue | markdownify | remove: "<p>" | remove: "</p>" }}</i>
+{% endif %}
       {% if post.venue and post.date %}, {% endif %}
       {% if post.date %}{{ post.date | date: "%Y" }}{% endif %}
     </p>
