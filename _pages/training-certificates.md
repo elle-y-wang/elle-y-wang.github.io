@@ -5,13 +5,13 @@ permalink: /training-certificates/
 author_profile: true
 ---
 
-- **Health Data Analysis and Machine Learning**  
-  *UBC Extended Learning* — Online course with certification  
-  **05/2025 – 06/2025**
-
 - **Code in Place: Python Programming Training Program**  
   *Stanford University* — Certification  
   **04/2025 – 06/2025**
+  
+- **Health Data Analysis and Machine Learning**  
+  *UBC Extended Learning* — [Online course with certification](/_training-certificates/Health_Data_Analysis_and_Machine_Learning.pdf)  
+  **04/2025 – 05/2025**
 
 - **Programming in Python for Data Science**  
   *UBC Extended Learning* — Online course with certification  
