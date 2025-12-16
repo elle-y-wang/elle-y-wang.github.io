@@ -10,7 +10,7 @@ author_profile: true
   **04/2025 – 06/2025**
   
 - **Health Data Analysis and Machine Learning**  
-  *UBC Extended Learning* — [Online course with certification](/_training-certificates/Health_Data_Analysis_and_Machine_Learning.pdf)  
+  *UBC Extended Learning* — [Online course with certification](/files/Health_Data_Analysis_and_Machine_Learning.pdf)  
   **04/2025 – 05/2025**
 
 - **Programming in Python for Data Science**  
