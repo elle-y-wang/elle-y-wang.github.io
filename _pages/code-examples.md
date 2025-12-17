@@ -17,6 +17,15 @@ A training pipeline for **[binary text classification using BERT / BioBERT / Cli
 
 
 ## R Codes
+### K-means Clustering Analysis
+
+A reusable **[clustering analysis workflow](https://github.com/elle-y-wang/Code-Examples/blob/071e0b6bafbbdb76c0dc55956217b349345310b2/R_Codes/Clustering_Analysis/ReadMe.md)** for numeric feature matrices:
+- Standardization 
+- K selection: WSS (elbow), Pseudo-F, Silhouette, Gap statistic
+- Final k-means fit + exported cluster labels + optional cluster summaries
+
+🔗 **[View code on GitHub](https://github.com/elle-y-wang/Code-Examples/blob/071e0b6bafbbdb76c0dc55956217b349345310b2/R_Codes/Clustering_Analysis/kmeans_clustering.R)**  
+
 ### SMD-based Meta-analysis and Visualization
 
 **[Standardized mean difference (SMD)–based meta-analysis pipeline](https://github.com/elle-y-wang/Code-Examples/blob/071e0b6bafbbdb76c0dc55956217b349345310b2/R_Codes/Meta-analysis/ReadMe.md)**
@@ -29,11 +38,4 @@ with publication-quality visualizations.
 
 🔗 **[View code on GitHub](https://github.com/elle-y-wang/Code-Examples/blob/071e0b6bafbbdb76c0dc55956217b349345310b2/R_Codes/Meta-analysis/SMD_Meta.r)**
 
-### K-means Clustering Analysis
 
-A reusable **[clustering analysis workflow](https://github.com/elle-y-wang/Code-Examples/blob/071e0b6bafbbdb76c0dc55956217b349345310b2/R_Codes/Clustering_Analysis/ReadMe.md)** for numeric feature matrices:
-- Standardization 
-- K selection: WSS (elbow), Pseudo-F, Silhouette, Gap statistic
-- Final k-means fit + exported cluster labels + optional cluster summaries
-
-🔗 **[View code on GitHub](https://github.com/elle-y-wang/Code-Examples/blob/071e0b6bafbbdb76c0dc55956217b349345310b2/R_Codes/Clustering_Analysis/kmeans_clustering.R)**  
