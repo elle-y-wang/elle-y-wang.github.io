@@ -26,7 +26,7 @@ author_profile: true
   **02/2025**
 
 - **Project Management Professional (PMP)**  
-  *Project Management Institute* — [Certification](/files/PMI_Certification.0df)  
+  *Project Management Institute* — [Certification](/files/PMI_Certification.pdf)  
   **05/2025**
 
 - **SAS Certified Professional: Advanced Programming Using SAS 9.4**  
@@ -54,7 +54,7 @@ author_profile: true
   **07/2022**
 
 - **Structured Project Management**  
-  *UBC Sauder Professional Growth* — [Online course with certification](https://www.credential.net/244a4d49-8d11-4e7a-b071-0af6c5a18403#acc.Y58gaPdv))    
+  *UBC Sauder Professional Growth* — [Online course with certification](https://www.credential.net/244a4d49-8d11-4e7a-b071-0af6c5a18403#acc.Y58gaPdv)    
   **05/2022**
 
 - **Project Management Fundamentals**  
