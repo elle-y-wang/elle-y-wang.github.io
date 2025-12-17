@@ -18,23 +18,23 @@ author_profile: true
   **03/2025 – 06/2025**
 
 - **Artificial Intelligence Foundations: Machine Learning**  
-  *LinkedIn Learning* — Online course with certification  
-  **05/2025**
+  *LinkedIn Learning* — [Online course with certification](/files/CertificateOfCompletion_Artificial_Intelligence_Foundations_Machine_Learning.pdf)    
+  **03/2025**
 
 - **Academy Accreditation: Generative AI Fundamentals**  
-  *Databricks* — Certification  
+  *Databricks* — [Certification](/files/Databricks_AI_Foundations.pdf)  
   **02/2025**
 
 - **Project Management Professional (PMP)**  
-  *Project Management Institute* — Certification  
+  *Project Management Institute* — [Certification](/files/PMI_Certification.0df)  
   **05/2025**
 
 - **SAS Certified Professional: Advanced Programming Using SAS 9.4**  
-  *SAS* — Certification  
+  *SAS* — [Certification](/files/SAS_Certified_Professional_Advanced_Programming_Using.pdf)   
   **03/2024**
 
 - **SAS Certified Specialist: Base Programming Using SAS**  
-  *SAS* — Certification  
+  *SAS* — [Certification](/files/SAS_Certified_Specialist_Base_Programming_Using.pdf)   
   **03/2024**
 
 - **Introduction to the Big Data Era & Opportunities for Better Health**  
@@ -46,7 +46,7 @@ author_profile: true
   **07/2023**
 
 - **Pfizer Investigator Training Program (ITP)**  
-  *Pfizer & Michael Smith Health Research BC* — Certification  
+  *Pfizer & Michael Smith Health Research BC* — [Certification](/files/citiCompletionCertificate.pdf)  
   **11/2022**
 
 - **SAS Programming 1: Essentials**  
@@ -54,11 +54,11 @@ author_profile: true
   **07/2022**
 
 - **Structured Project Management**  
-  *UBC Sauder Professional Growth* — Online course with certification  
+  *UBC Sauder Professional Growth* — [Online course with certification](https://www.credential.net/244a4d49-8d11-4e7a-b071-0af6c5a18403#acc.Y58gaPdv))    
   **05/2022**
 
 - **Project Management Fundamentals**  
-  *UBC Sauder Professional Growth* — Online course with certification  
+  *UBC Sauder Professional Growth* — [Online course with certification](https://www.credential.net/fb2a6097-050c-4320-abfd-eeaed3c9199e#acc.7aSeM9ou)      
   **04/2022**
 
 - **Public Speaking for International Professionals**  
@@ -70,7 +70,7 @@ author_profile: true
   **01/2022 – 02/2022**
 
 - **Speaking Up at Work**  
-  *LinkedIn Learning* — Online course  
+  *LinkedIn Learning* — [Online course with certification](/files/CertificateOfCompletion_Speaking_Up_At_Work.pdf)   
   **12/2021**
 
 - **Summer Program in Public Health**  
