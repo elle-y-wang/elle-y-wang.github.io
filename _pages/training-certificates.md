@@ -42,11 +42,11 @@ author_profile: true
   **01/2024 – 02/2024**
 
 - **Health Canada Division 5: Drugs for Clinical Trials Involving Human Subjects (Coordinators/Assistants)**  
-  *CITI Program* — Certification  
+  *CITI Program* — [Certification](/files/citiCompletionCertificate.pdf)     
   **07/2023**
 
 - **Pfizer Investigator Training Program (ITP)**  
-  *Pfizer & Michael Smith Health Research BC* — [Certification](/files/citiCompletionCertificate.pdf)  
+  *Pfizer & Michael Smith Health Research BC* — [Certification](/files/iTP_Michael_Smith_Heath_Research_BC.pdf)    
   **11/2022**
 
 - **SAS Programming 1: Essentials**  
