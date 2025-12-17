@@ -74,5 +74,5 @@ author_profile: true
   **12/2021**
 
 - **Summer Program in Public Health**  
-  *University of British Columbia* — Certification  
+  *University of British Columbia* — [Certification](/files/UBC_summer_school_certification.pdf)  
   **07/2016 – 08/2016**
