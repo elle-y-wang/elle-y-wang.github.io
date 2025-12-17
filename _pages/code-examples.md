@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 ---
 ## Python Codes
-### BERT Training Pipeline (Python)
+### BERT Training Pipeline 
 A training pipeline for **[binary text classification using BERT / BioBERT / ClinicalBERT](https://github.com/elle-y-wang/Code-Examples/blob/071e0b6bafbbdb76c0dc55956217b349345310b2/Python_Codes/Bert_Training/ReadMe.md)**:
 - 5-fold stratified cross-validation + early stopping (AUPRC primary)
 - Class-weighted loss for imbalance
